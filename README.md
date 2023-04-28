@@ -1,4 +1,4 @@
-# Spring-Lv.2
+# Spring-Lv.3
 ## 요구사항
 1. 회원 가입 API
 
